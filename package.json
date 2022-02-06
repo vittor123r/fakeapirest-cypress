@@ -1,0 +1,11 @@
+{
+  "name": "cypressapi",
+  "version": "1.0.0",
+  "description": "Projeto de testes de API com Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Vittor Ropcke",
+  "license": "MIT"
+}

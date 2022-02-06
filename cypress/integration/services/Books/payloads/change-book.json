@@ -1,0 +1,8 @@
+{
+    "id": 1,
+    "title": "Livro Vittor Alterado",
+    "description": "Um livro alterado",
+    "pageCount": 100,
+    "excerpt": "string",
+    "publishDate": "2022-02-05T17:35:36.762Z"
+  }
